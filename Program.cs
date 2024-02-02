@@ -1,3 +1,4 @@
+
 namespace HOILAI_Galgame_Tool
 {
     internal static class Program
@@ -7,6 +8,7 @@ namespace HOILAI_Galgame_Tool
         {
             ApplicationConfiguration.Initialize();
             Application.Run(new MainForm());
+
         }
     }
 }
