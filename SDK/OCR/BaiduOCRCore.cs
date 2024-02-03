@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using RestSharp;
 
-namespace HOILAI_Galgame_Tool.SDK.BaiduOCR
+namespace HOILAI_Galgame_Tool.SDK.OCR
 {
     public static class BaiduOCRCore
     {

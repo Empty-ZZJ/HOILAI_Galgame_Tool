@@ -65,7 +65,7 @@
             tabPage1.Name = "tabPage1";
             tabPage1.Size = new Size(0, 642);
             tabPage1.TabIndex = 0;
-            tabPage1.Text = "面板";
+            tabPage1.Text = "翻译";
             tabPage1.UseVisualStyleBackColor = true;
             // 
             // tabPage2
@@ -103,6 +103,7 @@
             TabControl.TabIndex = 0;
             TabControl.TabUnSelectedForeColor = Color.FromArgb(240, 240, 240);
             TabControl.TabVisible = false;
+            TabControl.TipsFont = new Font("宋体", 9F, FontStyle.Regular, GraphicsUnit.Point);
             // 
             // MainForm
             // 
